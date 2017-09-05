@@ -163,6 +163,14 @@ img { max-width: 100%; }
   padding: 120px 0;
   display: block;
 }
+
+
+.white-bgs {
+  background: #f6ffff;
+  padding: 120px 0;
+  display: block;
+}
+
 .white-bg {
   background: #ffffff;
   padding: 120px 0;
