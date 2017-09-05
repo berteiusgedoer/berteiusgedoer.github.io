@@ -43,14 +43,13 @@
 
   .skillst {margin-top: 50px;}
 
-	#cont {visibility: hidden;}
 }
 
 
 @media screen and (max-width: 768px){
 	/*------ header -----*/
 	.for-sticky{ padding: 0; }
-	.logo-nav { margin-left: 0;}
+	.logo-nav { margin-left: 0; }
 	.menu-button{margin-right: 15px;}
 	.ma-infinitypush-wrapper.ma-infinitypush-active-button.ma-infinitypush-button-right .ma-infinitypush-button{
 		left: -65px;
@@ -68,6 +67,7 @@
 		width: 50%;
 	}
 
+	#cont {visibility: hidden;}
 
   /*---- blog -----*/
 	.grid-item {width: 50%;}
