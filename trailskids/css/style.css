@@ -954,6 +954,7 @@ ul.portfolio-image li .desc{
   -o-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
+  background-position:center bottom;
   position: relative;
   padding: 0;
   margin: 0;
