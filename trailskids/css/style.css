@@ -163,14 +163,6 @@ img { max-width: 100%; }
   padding: 120px 0;
   display: block;
 }
-
-
-.white-bgs {
-  background: #f6ffff;
-  padding: 120px 0;
-  display: block;
-}
-
 .white-bg {
   background: #ffffff;
   padding: 120px 0;
@@ -962,10 +954,8 @@ ul.portfolio-image li .desc{
   -o-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center bottom;
   position: relative;
   padding: 0;
-  background-origin: content-box;
   margin: 0;
   min-height: 660px;
   width: 100%;
