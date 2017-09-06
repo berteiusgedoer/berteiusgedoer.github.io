@@ -969,31 +969,19 @@ ul.portfolio-image li .desc{
   position: relative;
   display: block;
   min-height: 780px;
+
 }
 .wrap-about .w-content{
   position: absolute;
   left: 50%;
-  top: 48%;
+  top: 58%;
   transform: translateX(-50%) translateY(-50%);
   -webkit-transform: translateX(-50%) translateY(-50%);
   -moz-transform: translateX(-50%) translateY(-50%);
   -ms-transform: translateX(-50%);
+
 }
 
-.wrap-about .w-content td{
-  font-size: 13px;
-  font-weight: 300;
-}
-.wrap-about .w-content td.title{
-  padding-right: 10px;
-  font-weight: 500;
-}
-.wrap-about .w-content td.break{
-  padding-right: 15px;
-}
-.wrap-about .w-content tr{
-  height: 35px;
-}
 .wrap-about .head-about {
   font-size: 18px;
   line-height: 26px;
